@@ -1,8 +1,3 @@
-Quick start
-Clone or extract:
-
-git clone <repo-url> OR download ZIP and extract
-
 Install:
 
 npm install
